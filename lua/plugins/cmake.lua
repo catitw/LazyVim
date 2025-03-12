@@ -1,4 +1,4 @@
---- https://www.lazyvim.org/extras/lang/cmake
+-- https://www.lazyvim.org/extras/lang/cmake
 
 return {
   {
