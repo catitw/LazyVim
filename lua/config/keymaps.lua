@@ -17,7 +17,7 @@ end
 -- reference:
 -- - https://www.reddit.com/r/AstroNvim/comments/1hkb6pr/remap_toggle_comment_to_ctrl
 -- - https://github.com/LazyVim/LazyVim/discussions/3033
-map("n", "<leader>/", "gcc", { remap = true, desc = "Toggle comment" })
+map({ "n", "v" }, "<leader>/", "gcc", { remap = true, desc = "Toggle comment" })
 
 -- stylua: ignore start
 
