@@ -12,3 +12,8 @@ see [Lazvim Extras](https://www.lazyvim.org/extras)
 ## Shortcuts
 
 - ["n", "v"]: `<leader>/` : toggle comment
+
+## Recommand Intergation
+
+- Alacritty
+- Tmux
