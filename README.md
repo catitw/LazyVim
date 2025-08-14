@@ -17,3 +17,7 @@ see [Lazvim Extras](https://www.lazyvim.org/extras)
 
 - Alacritty
 - Tmux
+
+## Jujutsu Intergation
+
+using the [Co-located Jujutsu/Git repos](https://jj-vcs.github.io/jj/latest/git-compatibility/#co-located-jujutsugit-repos)
